@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootWeb
+Implementation-Version: 0.1.0
+Built-By: laptop
+Implementation-Vendor-Id: com.labs
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootWe
+ b/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
